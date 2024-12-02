@@ -7,12 +7,13 @@ void setup() {
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
-  fill(255,255,255,0);
-  strokeWeight(3);
+  fill(229,229,229,100);
+  strokeWeight();
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
-  ellipse(50,50,100,80);
-  
+  ellipse(200,70,100,90);
+  ellipse(200,180,150,130);
+  ellipse(200,335,250,180);
 
 }
 
